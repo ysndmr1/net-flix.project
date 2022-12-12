@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: 20px 90px;
+  /* height: 99vh; */
+}
+
+h1 {
+  font-family: "Bowlby One SC", cursive;
+  color: white;
+  letter-spacing: 3px;
+}
+
+.flx {
+  color: red;
+}
+
+body {
+  text-align: center;
+  color: white;
+  background-image: url(background_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 97vh; */
+}
+
+form {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 10px;
+  text-align: left;
+  /* height: 91vh; */
+  width: fit-content;
+  display: inline-block;
+  padding: 20px;
+}
+
+.form-1 {
+  width: 20rem;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.form-2 {
+  width: 20rem;
+  padding: 10px;
+  margin: 5px 0px 20px 0px;
+}
+
+.form-3,
+.form-4 {
+  margin: 25px 0px;
+}
+
+.btn {
+  text-align: center;
+}
+.btn-1 {
+  color: white;
+  border-radius: 20px;
+  width: 100px;
+  padding: 7px;
+  background-color: red;
+}
